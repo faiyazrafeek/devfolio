@@ -21,25 +21,25 @@ module.exports = {
       {
         name: 'CAL - EDUWIDE | Group | 2020',
         description:
-          'Currently developing a Computer Assistant Learning system for EDUWIDE Academy.</br> Technologies : React, Redux, Node.js, Express, MongoDB (MERN Stack) ',
+          'Currently developing a Computer Assistant Learning system for EDUWIDE Academy. Technologies : React, Redux, Node.js, Express, MongoDB (MERN Stack) ',
         link: 'https://github.com/faiyazrafeek',
       },
       {
         name: 'MentorX | Individual | 2020  ',
         description:
-          'Currently developing a cross platform digital library for students to download study materials. </br> Technologies : React, Redux, Node.js, Firebase, React Native',
+          'Currently developing a cross platform digital library for students to download study materials. Technologies : React, Redux, Node.js, Firebase, React Native',
         link: 'https://mentorx.netlify.app/',
       },
       {
         name: 'Inventory Management System | Group | 2019',
         description:
-          'Contributed to develop an inventroy management system (Web & Dekstop) for the proposed physics laboratory of the Faculty of Computing and Technology, University of Kelaniya. </br> Technologies : Java, JavaFX, PHP, Ajax, jQuery, MySQL, HTML, CSS, Javascript, Bootstrap',
+          'Contributed to develop an inventroy management system (Web & Dekstop) for the proposed physics laboratory of the Faculty of Computing and Technology, University of Kelaniya. Technologies : Java, JavaFX, PHP, Ajax, jQuery, MySQL, HTML, CSS, Javascript, Bootstrap',
         link: 'https://github.com/faiyazrafeek',
       },
       {
         name: 'Hotel Management System | Group | 2018',
         description:
-          'Contributed to develop a hotel management system for Sea Breeze Restaurant and Hotel. </br> Technologies : Java, JSP, Servlet, MySQL',
+          'Contributed to develop a hotel management system for Sea Breeze Restaurant and Hotel. Technologies : Java, JSP, Servlet, MySQL',
         link: 'https://github.com/faiyazrafeek',
       },
       
