@@ -15,61 +15,73 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/faiyazrafeek/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Highly confident and self-motivated individual with a deep passion for technology, who finds every opportunity to work with people and achieve the maximum; seeking a rewarding and challanging opportunity to step into the corporate world.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'CAL - EDUWIDE | Group | 2020',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Currently developing a Computer Assistant Learning system for EDUWIDE Academy.</br> Technologies : React, Redux, Node.js, Express, MongoDB (MERN Stack) ',
+        link: 'https://github.com/faiyazrafeek',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'MentorX | Individual | 2020  ',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Currently developing a cross platform digital library for students to download study materials. </br> Technologies : React, Redux, Node.js, Firebase, React Native',
+        link: 'https://mentorx.netlify.app/',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Inventory Management System | Group | 2019',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Contributed to develop an inventroy management system (Web & Dekstop) for the proposed physics laboratory of the Faculty of Computing and Technology, University of Kelaniya. </br> Technologies : Java, JavaFX, PHP, Ajax, jQuery, MySQL, HTML, CSS, Javascript, Bootstrap',
+        link: 'https://github.com/faiyazrafeek',
       },
+      {
+        name: 'Hotel Management System | Group | 2018',
+        description:
+          'Contributed to develop a hotel management system for Sea Breeze Restaurant and Hotel. </br> Technologies : Java, JSP, Servlet, MySQL',
+        link: 'https://github.com/faiyazrafeek',
+      },
+      
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Instructor | EDUWIDE Academy',
+        description: 'EDUWIDE Academy is an Educational Institute organized for the purpose of the educational development.',
+        link: 'http://eduwide.lk',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Full-Stack Developer | MentorX',
+        description: 'MentorX is a digital library which provides academic study materials for all grades.',
+        link: 'https://mentorx.netlify.app/',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'UI/UX Designer | FA Design',
+        description: 'FA Design is an design oriented startup which provides designing services including Web Design, UI/UX Design, Graphic Design. Currently act as a UI/UX Designer.',
+        link: 'http://fadesign.lk',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Languages',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Java, JavaScript (ES6+), Python, PHP, C, C#, HTML, CSS, SQL',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Frameworks and Libraries',
+        description: 'React, Node.js, Express, Spring, .NET, Laravel, Angular, jQuery, Bootstrap, Next JS, Wordpress',
       },
       {
-        name: 'Other',
+        name: 'Databases, Cloud, others',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'MySQL, MongoDB, Postgre SQL, Firebase, AWS Cloud, Git',
+      },
+      {
+        name: 'Design Tools',
+        description:
+          'Photoshop, Illustrator, InDesign, Adobe XD, Figma',
       },
     ],
   },
