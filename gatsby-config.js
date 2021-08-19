@@ -13,7 +13,7 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/faiyazrafeek`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/faiyazrafeek/`,
+    linkedin: `https://www.linkedin.com/in/faiyaz-rafeek/`,
     // Content of the About Me section
     about: `Highly confident and self-motivated individual with a deep passion for technology, who finds every opportunity to work with people and achieve the maximum; seeking a rewarding and challanging opportunity to step into the corporate world.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
