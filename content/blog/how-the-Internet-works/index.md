@@ -1,83 +1,82 @@
 ---
-title: How the Internet works & Web Development Process
-date: '2020-05-16T12:00:00.00Z'
-description: 'How the Internet works & Web Development Process'
+title: What is Cyber security ?
+date: '2020-05-19T12:00:00.00Z'
+description: 'Cyber security refers to the body of technologies, processes, and practices designed to protect internet-connected systems such as hardware...'
 ---
 
-## Internet Infrastructure
+![Mountain](./cyber.jpeg)
 
-![Mountain](./image.jpg)
+Cyber security refers to the body of technologies, processes, and practices designed to protect internet-connected systems such as hardware, software and data from cyber threats. The practice is used by individuals and enterprises to protect against unauthorized access to data centers and other computerized systems. Cyber security may also be referred to as information technology security.
 
-The internet is a network of Cables that facilitates the transmission of “Data Packets”
+### Importance of Cyber security
 
->The network of cables is vast and spans the Globe more than 550,000 miles of hidden cable under the Ocean. Reported by Business Insider 
+In today’s connected world, everyone benefits from advanced cyber-defense programs. At an individual level, a cyber security attack can result in everything from identity theft, to extortion attempts, to the loss of important data like family photos. And, government, military, corporate, financial, and medical organizations collect, process, and store unprecedented amounts of data on computers and other devices. A significant portion of that data can be sensitive information, whether that be intellectual property, financial data, personal information, or other types of data for which unauthorized access or exposure could have negative consequences.
 
-## Data Packets
+Organizations transmit sensitive data across networks and to other devices while doing businesses, and cyber security describes the discipline dedicated to protecting that information and the systems used to process or store it. As the volume and sophistication of cyber-attacks grow, companies and organizations, especially those that are tasked with safeguarding information relating to national security, health, or financial records, need to take steps to protect their sensitive business and personnel information. Securing these and other organizations is essential to keeping our society functioning.
 
-Contains the Information being transmitted over a Network. Data packets can include **Emails, Files, or Web Pages**. They also include information about the **Sender** and a **Recipient**. Recipient is a Device attached to the Network. The Address of the Device is defined by it’s **IP (Internet Protocol) Address**. Every Device attached to the Network has a **Unique IP Address**.
+Cyber security is a continuously changing field, with the development of technologies that open up new avenues for cyber-attacks. Additionally, even though significant security breaches are the ones that often get publicized, small organizations still have to concern themselves with security breaches, as they may often be the target of viruses and phishing.
 
-An IP address is a string of Numbers separated by periods.
+## Types of Cyber Security threats
 
->Example : The IP Address of the Web Server hosting Google.com is 74.125.224.72
+### Phishing
 
-## Bandwidth
+Phishing is the practice of sending fraudulent emails that resemble emails from reputable sources. The aim is to steal sensitive data like credit card numbers and login information. It’s the most common type of cyber-attack. You can help protect yourself through education or a technology solution that filters malicious emails.
 
-The speed at which packets can be transmitted. Bandwidth transmission Capacity is measured by bit rate. Bit rate is the number of bits per second a digital network can transmit.
+### Ransomware
 
-> **Latency** : Amount of time it takes for 1 bit to be sent from the Sender to Receiver.
+Ransomware is a type of malicious software. It is designed to extort money by blocking access to files or the computer system until the ransom is paid. Paying the ransom does not guarantee that the files will be recovered, or the system restored.
 
-## Protocol
+### Malware
 
-A well-established set of rules and standards used to communicate between machines.
+Malware is a type of software designed to gain unauthorized access or to cause damage to a computer.
 
-- **IP (Internet Protocol)** : Route information to the proper address.
-- **TCP Protocol** : Facilitates the transmission of Data Packets. Ensures no information is missing.
-- **HTTP/HTTPS Protocol** : Facilitates communication between a web browser and web server.
+### Social Engineering
 
-## Web Server
+Social engineering is a tactic that adversaries use to trick you into revealing sensitive information. They can solicit a monetary payment or gain access to your confidential data. Social engineering can be combined with any of the threats listed above to make you more likely to click on links, download malware, or trust a malicious source.
 
-A computer that hosts a website or Web Application. Configured to accept remote connections with internet users and relay data through HTTP/HTTPS.
+## Elements of Cyber security
 
-![Mountain](./internet.jpg)
+For an effective cyber security, an organization needs to coordinate its efforts throughout its entire information system. Elements of cyber security including all of the following:
 
-HTTPS Protocol : More secure than HTTP. Data packets are Encrypted using SSL or TLS.
+- Network security
+- Application security
+- Endpoint security
+- Data security
+- Identity management
+- Database and infrastructure security
+- Cloud security
+- Mobile security
+- Disaster recovery/business continuity planning
+- End-user education
 
-### SSL : Secure Socket Layer, TLS : Transport Security Layer
+## Benefits of Cyber security
 
-SSL created with a Security Certificate.
+Benefits of utilizing cyber security includes:
 
-### Security Certificate
+- Business protection against malware, ransomware, phishing and social engineering.
+- Protection for data and networks.
+- Prevention of unauthorized users.
+- Improves recovery time after a breach.
+- Protection for end-users.
+- Improved confidence in the product for both developers and customers.
 
-Requires installation on the web server. Can be purchased from a reputable vendor. Validation requires information about the Domain and Registrant. EV Certificates offer the highest level of Security.
+## Challenges of Cyber security
 
-### SMTP (Simple Mail Transfer Protocol)
+The most difficult challenge in cyber security is the ever-evolving nature of security risks themselves. Traditionally, organizations and the government have focused most of their cyber security resources on perimeter security to protect only their most crucial system components and defend against known treats. Today, this approach is insufficient, as the threats advance and change more quickly than organizations can keep up with. As a result, advisory organizations promote more proactive and adaptive approaches to cyber security. Similarly, the National Institute of Standards and Technology (NIST) issued guidelines in its risk assessment framework that recommend a shift toward continuous monitoring and real-time assessments, a data-focused approach to security as opposed to the traditional perimeter-based model.
 
-SMTP Email server handles Outgoing Mail Delivery. Two types of Mail Delivery. They are **Local & Outbound.**
+To protect organizations, employees and individuals, organizations and services should implement cyber security tools, training, risk management approaches and continually update systems as technologies change and evolve.
 
+## Careers in Cyber security
 
-# The Web Development Process
+IT professionals and other computer specialists are needed in security jobs, such as:
 
-01. Plan & Create a Flow Diagram of the Web Application.
-02. Determine your system requirements & hosting solutions.
-03. Choose a domain name and Register.
-04. Setup a Local Testing Server.
-05. Setup a Production server.
-06. Setup your FTP services.
-07. Develop the Front-End of your web application using HTML, CSS, Bootstrap, JavaScript jQuery.
-08. Database Setup / Configuration (MySQL/PhpMyAdmin).
-09. Dynamic Web Interactivity (PHP).
-10. Upload your website using FTP services.
-11. Configure DNS Record.
-12. Configure custom Emails Address on your domain
+**Chief information security officer (CISO)**: This individual implements the security program across the organization and oversees the IT security department’s operations.
 
-## Planning a website
+**Security engineer**: This individual protects company assets from threats with a focus on quality control within the IT infrastructure.
 
-Establish the purpose of your Website
+**Security architect**: This individual is responsible for planning, analyzing, designing, testing, maintaining and supporting an enterprise’s critical infrastructure.
 
-## Static or Dynamic ?
+**Security analyst**: This individual has several responsibilities that include planning security measures and controls, protecting digital files, and conducting both internal and external security audits.
 
-> Examples
-> https://www.nestle.lk/
-> https://www.amazon.com/
-
-
+> Source:
+>What Is Cybersecurity? (2020, April 21). Retrieved May 17, 2020, from https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html
