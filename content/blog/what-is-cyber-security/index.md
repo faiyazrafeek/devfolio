@@ -1,58 +1,82 @@
 ---
-title: My Third Blog Post
-date: '2020-10-10T12:00:00.00Z'
-description: 'Dolor inventore quasi necessitatibus odio eaque doloribus'
+title: What is Cyber security ?
+date: '2020-05-19T12:00:00.00Z'
+description: 'Cyber security refers to the body of technologies, processes, and practices designed to protect internet-connected systems such as hardware...'
 ---
 
-## Lorem ipsum dolor sit amet consectetur adipisicing elit
+![Mountain](./cyber.jpeg)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
+Cyber security refers to the body of technologies, processes, and practices designed to protect internet-connected systems such as hardware, software and data from cyber threats. The practice is used by individuals and enterprises to protect against unauthorized access to data centers and other computerized systems. Cyber security may also be referred to as information technology security.
 
-![Mountain](./mountain.jpg)
+### Importance of Cyber security
 
-Aliquam aliquid rem facere dolorum consectetur consequatur distinctio [mollitia id modi repellendus](https://github.com/RyanFitzgerald/devfolio) vero quae dolorem commodi soluta voluptates iusto nobis est dolore provident, porro veritatis placeat nemo impedit! Asperiores culpa delectus hic qui saepe, ipsum quia, exercitationem repellendus magni soluta sit suscipit laborum ducimus.
+In today’s connected world, everyone benefits from advanced cyber-defense programs. At an individual level, a cyber security attack can result in everything from identity theft, to extortion attempts, to the loss of important data like family photos. And, government, military, corporate, financial, and medical organizations collect, process, and store unprecedented amounts of data on computers and other devices. A significant portion of that data can be sensitive information, whether that be intellectual property, financial data, personal information, or other types of data for which unauthorized access or exposure could have negative consequences.
 
-## Asperiores culpa delectus hic qui saepe
+Organizations transmit sensitive data across networks and to other devices while doing businesses, and cyber security describes the discipline dedicated to protecting that information and the systems used to process or store it. As the volume and sophistication of cyber-attacks grow, companies and organizations, especially those that are tasked with safeguarding information relating to national security, health, or financial records, need to take steps to protect their sensitive business and personnel information. Securing these and other organizations is essential to keeping our society functioning.
 
-### Facere labore velit ad autem
+Cyber security is a continuously changing field, with the development of technologies that open up new avenues for cyber-attacks. Additionally, even though significant security breaches are the ones that often get publicized, small organizations still have to concern themselves with security breaches, as they may often be the target of viruses and phishing.
 
-Vitae veritatis quae eius quis vel soluta cumque? Facere labore velit ad autem. Nisi recusandae ducimus molestiae error ipsa quaerat, dignissimos suscipit similique itaque sunt provident quasi minus ut porro. Optio modi harum _dolore necessitatibus exercitationem_ blanditiis magni error ipsum, odit deleniti eligendi facilis, nesciunt delectus sit nostrum porro quam accusamus excepturi labore sequi maiores soluta?
+## Types of Cyber Security threats
 
-### Porro veritatis placeat nemo impedit
+### Phishing
 
-Veritatis et praesentium totam neque earum commodi nesciunt dolor quibusdam incidunt non, ex dicta molestias omnis maiores, maxime velit perferendis tenetur aut porro nostrum, suscipit soluta necessitatibus deserunt nobis. Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
+Phishing is the practice of sending fraudulent emails that resemble emails from reputable sources. The aim is to steal sensitive data like credit card numbers and login information. It’s the most common type of cyber-attack. You can help protect yourself through education or a technology solution that filters malicious emails.
 
-> Repudiandae iusto et iure pariatur aliquid, quisquam, non sed culpa, dignissimos recusandae facilis. Debitis hic, quaerat recusandae ad id, quis nisi perspiciatis quo aliquid natus similique.
+### Ransomware
 
-Illum esse recusandae facere ipsam fugiat est eaque ducimus facilis provident, distinctio cum aut corporis officiis quo fugit, similique temporibus inventore quidem tempora commodi saepe dicta! Numquam fugiat quibusdam aut ut, voluptatibus accusamus **repellendus quas minus consequuntur** possimus! Est eaque nesciunt, reiciendis voluptate placeat aspernatur doloremque unde cum et architecto suscipit quam facere corrupti nihil odit eum minima voluptatem nobis.
+Ransomware is a type of malicious software. It is designed to extort money by blocking access to files or the computer system until the ransom is paid. Paying the ransom does not guarantee that the files will be recovered, or the system restored.
 
-## Voluptatibus accusamus repellendus quas minus
+### Malware
 
-Ipsum quod, ut animi mollitia ipsam repellat, dolore voluptate quibusdam quasi reiciendis necessitatibus odio ea nostrum illo explicabo? Ducimus, in repudiandae. Ratione dolore sequi in animi obcaecati incidunt reprehenderit illo repellat atque aperiam, praesentium eligendi! Sed voluptas voluptatem sunt distinctio pariatur ullam? Laudantium laboriosam.
+Malware is a type of software designed to gain unauthorized access or to cause damage to a computer.
 
-- Numquam fugiat quibusdam aut ut
-- Soluta necessitatibus deserunt nobis
-- Illum esse recusandae facere ipsam
+### Social Engineering
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus.
+Social engineering is a tactic that adversaries use to trick you into revealing sensitive information. They can solicit a monetary payment or gain access to your confidential data. Social engineering can be combined with any of the threats listed above to make you more likely to click on links, download malware, or trust a malicious source.
 
-1. Numquam fugiat quibusdam aut ut
-2. Soluta necessitatibus deserunt nobis
-3. Illum esse recusandae facere ipsam
+## Elements of Cyber security
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde reprehenderit inventore sunt, consequatur omnis tempore ullam natus, porro odit aut, atque asperiores repudiandae corporis quidem esse eos provident velit perferendis magni fugit eum quisquam eligendi. Atque distinctio iure aliquam veniam inventore, soluta est, cum accusantium possimus illum quasi eveniet sed amet ipsa culpa vel in delectus laboriosam repellendus totam. Facere.
+For an effective cyber security, an organization needs to coordinate its efforts throughout its entire information system. Elements of cyber security including all of the following:
 
-## Suscipit soluta necessitatibus deserunt nobi
+- Network security
+- Application security
+- Endpoint security
+- Data security
+- Identity management
+- Database and infrastructure security
+- Cloud security
+- Mobile security
+- Disaster recovery/business continuity planning
+- End-user education
 
-Minus rem dicta eos exercitationem illum consequatur consectetur praesentium voluptas. Dolor inventore quasi necessitatibus odio eaque doloribus.
+## Benefits of Cyber security
 
-```js
-const helloWorld = (name = 'World') => {
-  return `Hello ${name}!`;
-};
+Benefits of utilizing cyber security includes:
 
-helloWorld();
-helloWorld('John Doe');
-```
+- Business protection against malware, ransomware, phishing and social engineering.
+- Protection for data and networks.
+- Prevention of unauthorized users.
+- Improves recovery time after a breach.
+- Protection for end-users.
+- Improved confidence in the product for both developers and customers.
 
-Numquam fugiat quibusdam aut ut, voluptatibus accusamus repellendus quas minus consequuntur possimus!
+## Challenges of Cyber security
+
+The most difficult challenge in cyber security is the ever-evolving nature of security risks themselves. Traditionally, organizations and the government have focused most of their cyber security resources on perimeter security to protect only their most crucial system components and defend against known treats. Today, this approach is insufficient, as the threats advance and change more quickly than organizations can keep up with. As a result, advisory organizations promote more proactive and adaptive approaches to cyber security. Similarly, the National Institute of Standards and Technology (NIST) issued guidelines in its risk assessment framework that recommend a shift toward continuous monitoring and real-time assessments, a data-focused approach to security as opposed to the traditional perimeter-based model.
+
+To protect organizations, employees and individuals, organizations and services should implement cyber security tools, training, risk management approaches and continually update systems as technologies change and evolve.
+
+## Careers in Cyber security
+
+IT professionals and other computer specialists are needed in security jobs, such as:
+
+**Chief information security officer (CISO)**: This individual implements the security program across the organization and oversees the IT security department’s operations.
+
+**Security engineer**: This individual protects company assets from threats with a focus on quality control within the IT infrastructure.
+
+**Security architect**: This individual is responsible for planning, analyzing, designing, testing, maintaining and supporting an enterprise’s critical infrastructure.
+
+**Security analyst**: This individual has several responsibilities that include planning security measures and controls, protecting digital files, and conducting both internal and external security audits.
+
+> Source:
+>What Is Cybersecurity? (2020, April 21). Retrieved May 17, 2020, from https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html
