@@ -4,6 +4,8 @@ date: '2021-08-25T18:50:00.00Z'
 description: 'AI driven chatbots for pregnant mothers'
 ---
 
+## Chatbot Mobile Applications for Pregnant Mothers
+
 ![Mountain](./image.jpg)
 
 Hello readers, I'm going to introduce some chatbot mobile applications for pregnant mothers, which can be helpful for their daily activities.
@@ -20,21 +22,13 @@ Thank you for spending your time to have a look on this.
 ### References
 
 >[1] Tapson Development, “Stork — Pregnancy Tracker App Reviews 2021 | JustUseApp Reviews,” JustUseApp, 2021. https://justuseapp.com/en/app/1185434071/stork-pregnancy-tracker-app/reviews (accessed Aug. 12, 2021).
-
 >[2] Consagous Technologies, “ProDaddy - Pregnancy Guide App for the Daddy to Be - Top Digital Agency,” Top Digital Agency, 2019. https://topdigital.agency/case-study/prodaddy-pregnancy-guide-app-for-the-daddy-to-be/ (accessed Aug. 12, 2021).
-
 >[3] Best Mobile App Awards, “Pregnancy + Mobile App | The Best Mobile App Awards,” bestmobileappawards.com, 2018. https://bestmobileappawards.com/app-submission/pregnancy (accessed Aug. 12, 2021).
-
 >[4] K. Pirie, “18 Best Pregnancy Tracker Apps 2021 — Free and Affordable Pregnancy Apps,” Good Housekeeping, 2021. https://www.goodhousekeeping.com/health/g36095216/best-pregnancy-tracker-apps/ (accessed Aug. 12, 2021).
-
 >[5] “Amila — Mobile apps for health and childcare.” https://amila.io/index.html# (accessed Aug. 12, 2021).
-
 >[6] “PREGNANCY TRACKER APP.” https://pregnancytracker.app/ (accessed Aug. 12, 2021).
-
 >[7] “What to Expect - The Most Trusted Pregnancy & Parenting Brand.” https://www.whattoexpect.com/ (accessed Aug. 12, 2021).
-
 >[8] “P-Bot (Pregnancy Chat Bot) | Devpost.” https://devpost.com/software/pregnancy-chat-bot (accessed Aug. 12, 2021).
-
 >[9] M. C. Maduwantha and V. N. Vithana, “‘MumCare’: An Artificial Intelligence Based Assistant,” Int. J. Electr. Comput. Eng. Res., vol. 1, no. 1, 2021, doi: 10.53375/ijecer.2021.25.
 
 
