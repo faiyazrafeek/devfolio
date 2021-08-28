@@ -1,7 +1,7 @@
 ---
 title: Chatbot Mobile Applications for Pregnant Mothers
-date: '2020-05-16T12:00:00.00Z'
-description: 'AI driven '
+date: '2021-08-25T18:50:00.00Z'
+description: 'AI driven chatbots for pregnant mothers'
 ---
 
 ## Chatbot Mobile Applications for Pregnant Mothers
