@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'Faiyaz Ahamed',
     // Main Site Title
-    title: `Faiyaz Rafeek | Full-Stack Developer`,
+    title: `Faiyaz Rafeek | Full-Stack Engineer`,
     // Description that goes under your name in main bio
-    description: `Full-Stack Engineer | AI/ML Enthusiast | Designer | Instructor | Volunteer`,
+    description: `Associate Engineer | AI/ML Enthusiast | Designer | Instructor | Volunteer`,
     // Optional: Twitter account handle
     author: `@faiyaz_rafeek`,
     // Optional: Github account URL
@@ -48,6 +48,11 @@ module.exports = {
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
+      {
+        name: 'Associate Engineer - Technology | Virtusa',
+        description: 'Businesses today require transformational change at a scale and speed that defies traditional ways of working. We spark change through our Digital Transformation Studio that delivers deep digital engineering and industry expertise through client-specific and integrated agile scrum teams.',
+        link: 'https://www.virtusa.com/',
+      },
       {
         name: 'Instructor | EDUWIDE Academy',
         description: 'EDUWIDE Academy is an Educational Institute organized for the purpose of the educational development.',
