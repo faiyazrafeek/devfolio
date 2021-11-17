@@ -50,7 +50,7 @@ module.exports = {
     experience: [
       {
         name: 'Associate Engineer - Technology | Virtusa',
-        description: 'Businesses today require transformational change at a scale and speed that defies traditional ways of working. We spark change through our Digital Transformation Studio that delivers deep digital engineering and industry expertise through client-specific and integrated agile scrum teams.',
+        description: 'Virtusa is a worldwide provider of digital business strategy, digital engineering, and information technology (IT) services and solutions, serving Global 2000 companies across multiple industries. We help clients change, disrupt, and unlock new value with unmatched speed.',
         link: 'https://www.virtusa.com/',
       },
       {
