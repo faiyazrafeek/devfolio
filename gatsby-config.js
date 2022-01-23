@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/faiyaz-rafeek/`,
     // Optional: CV Link
-    mycv: `https://drive.google.com/file/d/1IOfK8tdT0NxpYhuBGUGEyWlaLuwXjuIW/view?usp=sharing`,
+    mycv: `https://drive.google.com/file/d/1gCkNB-zk0QdMF9N_gwDE3nf8377Ww70F/view?usp=sharing`,
     // Content of the About Me section
     about: `Highly confident and self-motivated individual with a deep passion for technology, who finds every opportunity to work with people and achieve the maximum; seeking a rewarding and challanging opportunity to step into the corporate world.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
