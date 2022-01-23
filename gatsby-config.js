@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Faiyaz Rafeek | Full-Stack Engineer`,
     // Description that goes under your name in main bio
-    description: `Associate Engineer | AI/ML Enthusiast | Designer | Instructor | Volunteer`,
+    description: `Software Engineer | AI/ML Enthusiast | Designer | Instructor`,
     // Optional: Twitter account handle
     author: `@faiyaz_rafeek`,
     // Optional: Github account URL
